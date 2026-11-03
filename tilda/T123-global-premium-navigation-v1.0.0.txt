@@ -1,0 +1,3 @@
+<!-- SOUWERS: меню «Формуляр Premium», один T123 в общей шапке сайта.
+Если этот блок уже установлен, оставьте существующий экземпляр. -->
+<script defer src="https://b066d43c-99a7-4068-b036-648b538d2e8d.selstorage.ru/scripts/souwers-premium-navigation-v1.0.0.js?v=20261103.100"></script>
