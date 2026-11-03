@@ -1,0 +1,143 @@
+{
+  "id": "souwers:108130609132",
+  "source": "souwers",
+  "label": "Апельсин (Эфирное Масло) / Orange EO",
+  "name_ru": "Апельсин (Эфирное Масло)",
+  "name_en": "Orange EO",
+  "aliases": [
+    "Апельсин (Эфирное Масло) / Orange EO",
+    "Апельсин (Эфирное Масло)",
+    "Orange EO",
+    "Orange Oil",
+    "Orange Essential Oil",
+    "Orange Peel Oil",
+    "масло апельсина"
+  ],
+  "cas": [
+    "8008-57-9"
+  ],
+  "kind": "essential_oil",
+  "category_ru": "Эфирное масло",
+  "form": {
+    "kind": "essential_oil",
+    "concentration_percent": null,
+    "carrier": null
+  },
+  "families": [
+    "Цитрусовый",
+    "Фруктовый"
+  ],
+  "notes": [
+    "Верхняя нота"
+  ],
+  "roles": [
+    "Основной компонент",
+    "Усилитель"
+  ],
+  "description_ru": "даёт мгновенный цитрусовый подъем, делает аромат более живым при первом открытии флакона, добавляет натуральность цитрусовому блоку и смягчает резкие верхние ноты.",
+  "supplier": {
+    "name": "SOUWERS",
+    "code": "108130609132",
+    "url": "https://souwers.ru/essential-oils/tproduct/2262089861-108130609132-apelsin-efirnoe-maslo-orange-eo-cas-8008"
+  },
+  "shop": {
+    "url": "https://souwers.ru/essential-oils/tproduct/2262089861-108130609132-apelsin-efirnoe-maslo-orange-eo-cas-8008",
+    "currency": "RUB",
+    "price_per_g": 60,
+    "packs": [
+      {
+        "grams": 5,
+        "price": 300,
+        "label": "5 г",
+        "uid": "974505467772",
+        "available": true
+      },
+      {
+        "grams": 10,
+        "price": 550,
+        "label": "10 г",
+        "uid": "470709672642",
+        "available": true
+      },
+      {
+        "grams": 30,
+        "price": 1500,
+        "label": "30 г",
+        "uid": "764987724022",
+        "available": true
+      },
+      {
+        "grams": 50,
+        "price": 2400,
+        "label": "50 г",
+        "uid": "990312015252",
+        "available": true
+      },
+      {
+        "grams": 100,
+        "price": 4500,
+        "label": "100 г",
+        "uid": "413683366022",
+        "available": true
+      }
+    ],
+    "checked_at": "2026-11-01",
+    "price_basis": "live_catalog_pack_snapshot",
+    "cost_basis_pack": "5 г"
+  },
+  "ifra": {
+    "category": "4",
+    "amendment": 51,
+    "basis": "finished_product_as_supplied",
+    "max_percent": 100,
+    "status": "reference",
+    "calculation_eligible": false,
+    "no_restriction_declared": false,
+    "limit_material_basis": "as_supplied",
+    "document_id": "ifra51-56cf76d979cfa99a3ac0",
+    "qualifier_ru": "PCW · справочно",
+    "source": {
+      "url": "https://directpcw.com/cdn/shop/files/ORANGE_BRESIL_PERA_-_OBP1M_-_IFRA51_-_2026-07.pdf?v=7129199299342657060",
+      "manufacturer": "PCW",
+      "document_date": "2026-07-29",
+      "verified_against_original_document": true,
+      "actual_supplier_document": false,
+      "actual_batch_confirmed": false,
+      "document_sha256": "56cf76d979cfa99a3ac07c51b52939b5000929088f3e0559272f1c11f22bc60f",
+      "quote": "CLASS 4 100%",
+      "source_product_name": "ORANGE BRESIL PERA",
+      "source_item_code": "OBP-1"
+    },
+    "display_percent": "100"
+  },
+  "working_dose": {
+    "min_percent": 0.2,
+    "max_percent": 5,
+    "basis": "fragrance_concentrate",
+    "material_basis": "as_sold_material",
+    "concentration_percent": null,
+    "display_ru": "0,2–5%"
+  },
+  "checked_at": "2026-10-19",
+  "registry_ifra": {
+    "amendment": 51,
+    "category": "4",
+    "basis": "finished_product",
+    "max_percent": 100,
+    "status": "verified_reference_numeric",
+    "qualifier_ru": "PCW · справочно; сверить происхождение и марку",
+    "source": {
+      "kind": "manufacturer_certificate_reference",
+      "url": "https://directpcw.com/cdn/shop/files/ORANGE_BRESIL_PERA_-_OBP1M_-_IFRA51_-_2026-07.pdf?v=7129199299342657060",
+      "manufacturer": "PCW",
+      "verified_against_original_document": true,
+      "actual_batch_confirmed": false,
+      "checked_at": "2026-10-18"
+    }
+  },
+  "canonical_aliases": [
+    "Orange Brasil Pera",
+    "ORANGE BRASIL PERA",
+    "CITRUS SINENSIS PEEL OIL / CITRUS AURATIUM DULCIS PEEL OIL"
+  ]
+}

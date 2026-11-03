@@ -1,0 +1,18 @@
+{
+  "formulary_version": "2.7.0",
+  "account_bridge_version": "1.0.3",
+  "files": {
+    "souwers-account-formulary-v1.0.3.js": {
+      "bytes": 7231,
+      "sha256": "08a4e3a6acc5d11e9eec757e2320e49b38b8d58be82328c9614eb4103fbb0ecb"
+    },
+    "souwers-formulary-v2.7.0.css": {
+      "bytes": 89111,
+      "sha256": "220382de7506ae708320fdccedf4bb5d721be6970c48b4032143f00460127f8a"
+    },
+    "souwers-formulary-v2.7.0.js": {
+      "bytes": 283409,
+      "sha256": "fb968df6ceea551c55e6fb8501f2add0477ac4640dd3741910fdcf61b20d82f4"
+    }
+  }
+}
